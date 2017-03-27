@@ -1,0 +1,26 @@
+{
+  "name": "learning-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-test-watch": "mocha-typescript-watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandarFaraj/learning-search.git"
+  },
+  "author": "Aleksandar Faraj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AleksandarFaraj/learning-search/issues"
+  },
+  "homepage": "https://github.com/AleksandarFaraj/learning-search#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "mocha-typescript": "^1.0.23",
+    "typescript": "^2.2.1"
+  }
+}

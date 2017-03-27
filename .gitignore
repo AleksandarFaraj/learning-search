@@ -1,7 +1,9 @@
 # Editor, os
 .idea
 .DS_Store
-
+*.js.map
+*.js
+*.d.ts
 # Logs
 logs
 *.log
